@@ -1,0 +1,4 @@
+packages:
+  - "vue-exmpl"
+  - "react-exmpl"
+  - "stencil"
